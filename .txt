@@ -1,0 +1,21 @@
+nodejs- axios- nodemailer - CORS - express -lodash - dotenv - mongoose - multer - regex - npm - webSocket - CKEditor - pug - hbs - ejs - bodyParser - fastestValidator - morgan - helmet - bcrypt - jwt - cjs - mvc - rest -
+
+react - reactrouter - createreactapp - tailwind - bootstrap - materialui - reactSpinner - formik - ESLint - Prettier - vite - nextjs - reactIcons - lodash - axios - sweetAlert-2 - reactToolTip - swiperJs - CKEditor - firebase - 
+
+db - mongodb - mongoose - redis - 
+
+js - wowjs - aos - ihover - ParticleJs - typeWriter - sweetAlert - videoJs - lodash - chartJs - iziToast - tippyJs - owlSlider - swiperJs - CKEditor - clientJs - Paralax - validatorJs - npm - pwa - 
+
+css - flexbox - cssGrid - tailwind - bootstrap - 
+
+os - linux - ubuntu - windows - 
+
+skills - algorithm - solveProblem - cleanCode - docker - 
+
+telegramBot - nodeTelegramBotApi - telegraf
+
+version - git - 
+
+security - xss - csref - ddos 
+
+webBase - html - css - js
